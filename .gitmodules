@@ -1,3 +1,6 @@
 [submodule "fallback-query"]
 	path = fallback-query
 	url = git@github.com:rafaeldefazio/fallback-query.git
+[submodule "fallback-unknown"]
+	path = fallback-unknown
+	url = git@github.com:rafaeldefazio/fallback-unknown.git

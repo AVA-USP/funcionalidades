@@ -16,3 +16,15 @@
 [submodule "skill-pairing"]
 	path = skill-pairing
 	url = git@github.com:rafaeldefazio/skill-pairing.git
+[submodule "skill-playback-control"]
+	path = skill-playback-control
+	url = git@github.com:rafaeldefazio/skill-playback-control
+[submodule "skill-speak"]
+	path = skill-speak
+	url = git@github.com:rafaeldefazio/skill-speak.git
+[submodule "skill-stop"]
+	path = skill-stop
+	url = git@github.com:rafaeldefazio/skill-stop.git
+[submodule "skill-volume"]
+	path = skill-volume
+	url = git@github.com:rafaeldefazio/skill-volume.git

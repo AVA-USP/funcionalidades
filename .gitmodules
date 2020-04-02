@@ -1,0 +1,3 @@
+[submodule "fallback-query"]
+	path = fallback-query
+	url = git@github.com:rafaeldefazio/fallback-query.git

@@ -13,3 +13,6 @@
 [submodule "skill-naptime"]
 	path = skill-naptime
 	url = git@github.com:rafaeldefazio/skill-naptime.git
+[submodule "skill-pairing"]
+	path = skill-pairing
+	url = git@github.com:rafaeldefazio/skill-pairing.git

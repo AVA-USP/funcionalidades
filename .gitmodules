@@ -7,3 +7,9 @@
 [submodule "skill-configuration"]
 	path = skill-configuration
 	url = git@github.com:rafaeldefazio/skill-configuration.git
+[submodule "skill-installer"]
+	path = skill-installer
+	url = git@github.com:rafaeldefazio/skill-installer.git
+[submodule "skill-naptime"]
+	path = skill-naptime
+	url = git@github.com:rafaeldefazio/skill-naptime.git

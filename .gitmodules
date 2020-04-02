@@ -4,3 +4,6 @@
 [submodule "fallback-unknown"]
 	path = fallback-unknown
 	url = git@github.com:rafaeldefazio/fallback-unknown.git
+[submodule "skill-configuration"]
+	path = skill-configuration
+	url = git@github.com:rafaeldefazio/skill-configuration.git

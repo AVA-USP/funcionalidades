@@ -1,13 +1,24 @@
 # core
-mycroft-pairing
-mycroft-configuration
-mycroft-installer
-mycroft-stop
-mycroft-naptime
-mycroft-playback-control
-mycroft-speak
-mycroft-volume
 fallback-query
+fallback-unknown
+skill-configuration
+skill-installer
+skill-naptime
+skill-pairing
+skill-playback-control
+skill-speak
+skill-stop
+skill-volume
+
+#mycroft-pairing
+#mycroft-configuration
+#mycroft-installer
+#mycroft-stop
+#mycroft-naptime
+#mycroft-playback-control
+#mycroft-speak
+#mycroft-volume
+#fallback-query
 
 # common
 #mycroft-fallback-duck-duck-go

@@ -44,8 +44,15 @@ Os nomes das skills em DEFAULT-SKILLS devem ter o mesmo nome que os adicionados 
     "update_interval": 1.0
   }
   ```
+  
+## Force a reinstalação de dependências
+
+Apague o arquivo `/home/mycroft/.mycroft/.mycroft-skill`
+Apagueu o arquivo `/opt/mycroft/skills/.msm`
+Reinicie o serviço de skills, mycroft-skills, utilizando o comando `sudo service mycroft-skills restart`
 
 ```sh
 source venv-activate.sh
 mycroft-config reload
 ```
+

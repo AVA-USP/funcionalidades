@@ -49,10 +49,4 @@ Os nomes das skills em DEFAULT-SKILLS devem ter o mesmo nome que os adicionados 
 
 1. Apague o arquivo `/home/mycroft/.mycroft/.mycroft-skill`
 1. Apague o arquivo `/opt/mycroft/skills/.msm`
-1. Reinicie o serviço de skills, mycroft-skills, utilizando o comando `sudo service mycroft-skills restart`
-
-```sh
-source venv-activate.sh
-mycroft-config reload
-```
-
+1. Reinicie o serviço de skills, mycroft-skills, utilizando o comando `sudo service mycroft-skills restart` ou `./start-mycroft.sh restart skills`

@@ -37,3 +37,8 @@ Os nomes das skills em DEFAULT-SKILLS devem ter o mesmo nome que os adicionados 
     "update_interval": 1.0
   }
   ```
+
+```sh
+source venv-activate.sh
+mycroft-config reload
+```

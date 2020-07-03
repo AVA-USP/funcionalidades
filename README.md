@@ -54,6 +54,8 @@ Adicionar o seguinte trecho de configuração:
   
 ## Force a reinstalação de dependências
 
+1. Apague as skills localizadas em `/opt/mycroft/skills`, ou pelo atalho, criado em `~/mycroft-core/skills` (pasta de instalação)
+1. Apague o arquivo `/opt/mycroft/skills/.msm`
 1. Apague o arquivo `/home/mycroft/.mycroft/.mycroft-skill`
 1. Apague o arquivo `/opt/mycroft/skills/.msm`
 1. Reinicie o serviço de skills, mycroft-skills, utilizando o comando `sudo service mycroft-skills restart` ou `./start-mycroft.sh restart skills`

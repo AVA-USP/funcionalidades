@@ -1,6 +1,5 @@
-# funcionalidades
-Funcionalidades para a Assistente Virtual AVA.
-No momento: migrando para submodules e realizando testes
+# Funcionalidades EVA
+Funcionalidades para a Assistente Virtual EVA.
 
 # Instalação
 

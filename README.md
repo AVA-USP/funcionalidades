@@ -4,7 +4,7 @@ Funcionalidades para a Assistente Virtual EVA.
 # Instalação
 
 
-Utilizando o gerenciador de configuração do Mycroft, é possível editar facilmente o arquivo `mycroft.conf`, localizado em `~/.mycroft`:
+Utilizando o gerenciador de configuração do Mycroft, é possível editar facilmente o arquivo `mycroft.conf`, localizado em `~/.mycroft`, rodando no terminal:
 
 ```sh
 mycroft-config edit user

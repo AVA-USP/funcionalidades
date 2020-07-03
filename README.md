@@ -3,9 +3,13 @@ Funcionalidades para a Assistente Virtual AVA.
 No momento: migrando para submodules e realizando testes
 
 # Instalação
----
 
-Os nomes das skills em DEFAULT-SKILLS devem ter o mesmo nome que os adicionados em submódulos.
+
+Utilizando o gerenciador de configuração do Mycroft, é possível editar facilmente o arquivo `mycroft.conf`, localizado em `~/.mycroft`.
+
+OBS: Os nomes das skills em DEFAULT-SKILLS devem ter o mesmo nome que os adicionados em submódulos.
+
+Adicionar o seguinte trecho de configuração:
 
 ```
   "skills": {
@@ -50,3 +54,5 @@ Os nomes das skills em DEFAULT-SKILLS devem ter o mesmo nome que os adicionados 
 1. Apague o arquivo `/home/mycroft/.mycroft/.mycroft-skill`
 1. Apague o arquivo `/opt/mycroft/skills/.msm`
 1. Reinicie o serviço de skills, mycroft-skills, utilizando o comando `sudo service mycroft-skills restart` ou `./start-mycroft.sh restart skills`
+
+Pronto!
